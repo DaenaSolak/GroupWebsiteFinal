@@ -4,178 +4,15 @@ body {
 	width: 100%;
 }
 
-.jumbotron{
-	background-color: pink;
-	background-size: cover;
-}
-
-.margin-top {
-	margin-top: 40px;
-}
-
-
-.container {
-	margin-top: -30px;
-	margin-bottom: 20px;
-}
-
-.img-fluid {
-	height: 325px;
-	object-fit: cover;
-	object-position: center center;
-	padding: 2rem;
-		
-}
-
-.contacttitle {
-	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-	color: pink; 
-	margin-top: 30px;
-	margin-left: 175px;
-}
-.contacttext {
+p{
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
-	margin-left: 50px;
-	text-align: justify;
-  	text-justify: inter-word;
 }
 
-.contacttitle2 {
+h3{
 	margin-top: 20px;
-	margin-left: 180px;
 	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
 	color: pink; 
 	font-size: 30px;
-}
-
-.contacttitle3 {
-	margin-top: 20px;
-	margin-left: 180px;
-	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-	color: pink; 
-	font-size: 30px;
-}
-
-.title1{
-	font-size: 25px;
-	margin-left:  75px;
-	color: pink;
-	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-}
-
-.title2 {
-	font-size: 25px;
-	margin-left:  65px;
-	color: pink;
-	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-}
-
-.daunt-background {
-	background-image: url("../images/roses.jpg")
-	
-	
-}
-
-
-.display-4 {
-	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-	color: black;
-}
-
-.lead {
-	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
-}
-body {
-	font-family: 'Roboto', sans-serif;
-	font-size: 20px;
-	width: 100%;
-}
-
-.jumbotron{
-	background-color: pink;
-	background-size: cover;
-}
-
-.margin-top {
-	margin-top: 40px;
-}
-
-
-.container {
-	margin-top: -30px;
-	margin-bottom: 20px;
-}
-
-.img-fluid {
-	height: 325px;
-	object-fit: cover;
-	object-position: center center;
-	padding: 2rem;
-		
-}
-
-.contacttitle {
-	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-	color: pink; 
-	margin-top: 30px;
-	margin-left: 175px;
-}
-.contacttext {
-	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
-	margin-left: 50px;
-	text-align: justify;
-  	text-justify: inter-word;
-}
-
-.contacttitle2 {
-	margin-top: 20px;
-	margin-left: 180px;
-	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-	color: pink; 
-	font-size: 30px;
-}
-
-.contacttitle3 {
-	margin-top: 20px;
-	margin-left: 180px;
-	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-	color: pink; 
-	font-size: 30px;
-}
-
-.title1{
-	font-size: 25px;
-	margin-left:  75px;
-	color: pink;
-	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-}
-
-.title2 {
-	font-size: 25px;
-	margin-left:  65px;
-	color: pink;
-	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-}
-
-.daunt-background {
-	background-image: url("../images/roses.jpg")
-	
-	
-}
-
-
-.display-4 {
-	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-	color: black;
-}
-
-.lead {
-	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
-}
-body {
-	font-family: 'Roboto', sans-serif;
-	font-size: 20px;
-	width: 100%;
 }
 
 .jumbotron{
@@ -259,10 +96,91 @@ body {
 .lead {
 	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
 }
-body {
-	font-family: 'Roboto', sans-serif;
-	font-size: 20px;
-	width: 100%;
+
+
+.jumbotron{
+	background-color: pink;
+	background-size: cover;
+}
+
+.margin-top {
+	margin-top: 40px;
+}
+
+
+
+.container {
+	margin-top: -30px;
+	margin-bottom: 20px;
+}
+
+.img-fluid {
+	height: 325px;
+	object-fit: cover;
+	object-position: center center;
+	padding: 2rem;
+		
+}
+
+.contacttitle {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: pink; 
+	margin-top: 30px;
+	margin-left: 175px;
+}
+.contacttext {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	margin-left: 50px;
+	text-align: justify;
+  	text-justify: inter-word;
+}
+
+.contacttitle2 {
+	margin-top: 20px;
+	margin-left: 180px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: pink; 
+	font-size: 30px;
+}
+
+.contacttitle3 {
+	margin-top: 20px;
+	margin-left: 180px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: pink; 
+	font-size: 30px;
+}
+
+.title1{
+	font-size: 25px;
+	margin-left:  75px;
+	color: pink;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+
+.title2 {
+	font-size: 25px;
+	margin-left:  65px;
+	color: pink;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+
+.daunt-background {
+	background-image: url("../images/roses.jpg")
+	
+	
+}
+
+
+.display-4 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: black;
+}
+
+.lead {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
+}
+
 }
 
 .jumbotron{
@@ -346,11 +264,7 @@ body {
 .lead {
 	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
 }
-body {
-	font-family: 'Roboto', sans-serif;
-	font-size: 20px;
-	width: 100%;
-}
+
 
 .jumbotron{
 	background-color: pink;
@@ -433,11 +347,7 @@ body {
 .lead {
 	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
 }
-body {
-	font-family: 'Roboto', sans-serif;
-	font-size: 20px;
-	width: 100%;
-}
+
 
 .jumbotron{
 	background-color: pink;
@@ -520,11 +430,7 @@ body {
 .lead {
 	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
 }
-body {
-	font-family: 'Roboto', sans-serif;
-	font-size: 20px;
-	width: 100%;
-}
+
 
 .jumbotron{
 	background-color: pink;
@@ -607,7 +513,90 @@ body {
 .lead {
 	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
 }
-@charset "utf-8";
+
+
+.jumbotron{
+	background-color: pink;
+	background-size: cover;
+}
+
+.margin-top {
+	margin-top: 40px;
+}
+
+
+.container {
+	margin-top: -30px;
+	margin-bottom: 20px;
+}
+
+.img-fluid {
+	height: 325px;
+	object-fit: cover;
+	object-position: center center;
+	padding: 2rem;
+		
+}
+
+.contacttitle {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: pink; 
+	margin-top: 30px;
+	margin-left: 175px;
+}
+.contacttext {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	margin-left: 50px;
+	text-align: justify;
+  	text-justify: inter-word;
+}
+
+.contacttitle2 {
+	margin-top: 20px;
+	margin-left: 180px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: pink; 
+	font-size: 30px;
+}
+
+.contacttitle3 {
+	margin-top: 20px;
+	margin-left: 180px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: pink; 
+	font-size: 30px;
+}
+
+.title1{
+	font-size: 25px;
+	margin-left:  75px;
+	color: pink;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+
+.title2 {
+	font-size: 25px;
+	margin-left:  65px;
+	color: pink;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+
+.daunt-background {
+	background-image: url("../images/roses.jpg")
+	
+	
+}
+
+
+.display-4 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: black;
+}
+
+.lead {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
+}
+
 
 * {
   padding: 0;
@@ -742,9 +731,6 @@ body {
 	margin-top: 180px;
 	margin-right: 50px;
 }
-
-
-
 
 
 header{

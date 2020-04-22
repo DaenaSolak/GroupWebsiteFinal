@@ -390,7 +390,7 @@ padding: 40px;
 .center
 {
 	align-content: center;
-	display: block;
+	display: table-caption;
 }
 
 

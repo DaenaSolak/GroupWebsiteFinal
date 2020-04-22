@@ -39,6 +39,12 @@ h3{
 	margin-bottom: 20px;
 }
 
+.jumbotron{
+	background-color: pink;
+	background-size: cover;
+}
+
+
 .img-fluid {
 	height: 325px;
 	object-fit: cover;
@@ -381,5 +387,5 @@ padding: 40px;
 
 
 .extra-padding{
-	padding-top: 60px;
+	padding-top: 90px;
 }

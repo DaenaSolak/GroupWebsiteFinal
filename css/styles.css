@@ -267,6 +267,7 @@ margin-top: 100px;
 
 .image-daunt-team-about{
 margin-top: 100px; 
+height: 500px;
 }
 
 .image-daunt-team{
@@ -390,7 +391,6 @@ padding: 40px;
 .center
 {
 	align-content: center;
-	display: table-caption;
 }
 
 

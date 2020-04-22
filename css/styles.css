@@ -34,7 +34,7 @@ h4{
 	color: pink; 
 	font-size: 30px;
 	text-align: center;
-	padding-top: 40px;
+	
 }
 
 .margin-top {
@@ -258,7 +258,7 @@ margin-bottom: 15px;
 }
 
 .image-daunt-about{
-margin-top: 100px;
+padding-top: 55px;
 }
 
 .image-our-goal-about{
@@ -266,7 +266,7 @@ margin-top: 100px;
 }
 
 .image-daunt-team-about{
-margin-top: 100px; 
+padding: 150px; 
 height: 500px;
 }
 

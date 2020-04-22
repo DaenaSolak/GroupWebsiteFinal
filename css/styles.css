@@ -131,3 +131,92 @@ body {
 
 
 
+
+
+header{
+  text-align: center;
+  font-size: large;
+}
+
+body{
+  padding-bottom: 150px;
+}
+
+.jumbotron-about-page {
+  background-color: pink;
+  margin-top: 30px;
+  height: 200px;
+
+}
+
+.text-jumbo{
+  text-align: left;
+  margin-left: 15px;
+}
+
+.container-fluid-about{
+margin-bottom: 15px;
+}
+
+.title-about{
+  color: pink;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  margin-top: 150px;
+}
+
+.image-diverse-women-about{
+  margin-top: 150px;
+}
+
+.image-daunt-about{
+margin-top: 100px;
+}
+
+.image-our-goal-about{
+margin-top: 100px; 
+}
+
+.image-daunt-team-about{
+margin-top: 100px; 
+}
+
+.image-daunt-team{
+  margin-bottom: 15px;
+}
+
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 125px;
+  width: 100%;
+  background-color: pink;
+  color: black;
+}
+
+ul {
+    list-style-type: none;
+}
+.p-footer{
+  font-size: 30%;
+  margin-left: 15px;
+  margin-top: 100px;
+}
+
+.DAUNT-logo-footer{
+  position: absolute;
+  left: 46%;
+  bottom: 25px;
+    margin-left: 20px;
+}
+
+.social-medias{
+  float: right;
+  margin-top: 46px;
+  margin-right: 30px;
+}
+
+
+

@@ -326,6 +326,7 @@ padding: 40px;
 	object-fit: cover;
 	object-position: center center;
 	padding: 2rem;
+	display: block;
 		
 }
 
@@ -387,7 +388,10 @@ padding: 40px;
 }
 
 .center
-{align-content: center;}
+{
+	align-content: center;
+	display: block;
+}
 
 
 .extra-padding{
